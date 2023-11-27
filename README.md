@@ -10,3 +10,27 @@ Don't forget to change path to the tree.txt file in the code.
 csc Program.cs
 mono Program.exe
 ```
+
+```bash
+                               /\
+                              /"*\
+                             /"o"o\
+                            /"*"*"*\
+                           /"o"o"o"o\
+                          /"*"*"*"*"*\
+                         /"o"o"o"o"o"o\
+                        /"*"*"*"*"*"*"*\
+                       /"o"o"o"o"o"o"o"o\                      
+                      /"*"*"*"*"*"*"*"*"*\	
+                     /"o"o"o"o"o"o"o"o"o"o\
+                    /"*"*"*"*"*"*"*"*"*"*"*\
+                   /"o"o"o"o"o"o"o"o"o"o"o"o\
+                  /"*"*"*"*"*"*"*"*"*"*"*"*"*\
+                 /"o"o"o"o"o"o"o"o"o"o"o"o"o"o\
+                /"*"*"*"*"*"*"*"*"*"*"*"*"*"*"*\
+               /",",",",",","|    |,",",",",",",\
+                             |    |
+                             |    |
+        
+                            hny!.exe
+```
